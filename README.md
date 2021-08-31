@@ -7,7 +7,7 @@ A ReactJS website to order food, React Hooks used - useState, useContext, useRed
 ## Install Node Modules
 <code>npm install </code>
 
-## Install Node Modules
+## Run NPM
 <code>npm start</code>
 
 ## Kudos!! You successfully hosted ReactMeals in localhost:3000
